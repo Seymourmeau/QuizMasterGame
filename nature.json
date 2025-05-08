@@ -1,0 +1,35 @@
+[
+    {
+      "categoryName_no": "KUK",
+      "questions": [
+        {
+          "text_no": "I hvilket år ble Trondheim (den gang Nidaros) grunnlagt?",
+          "answers_no": [
+            "997",
+            "1030",
+            "1152",
+            "1349"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation_no": "Trondheim, opprinnelig kjent som Nidaros, ble grunnlagt i 997 av Olav Tryggvason.",
+          "difficulty": "Easy",
+          "learnMore_no": "Olav Tryggvason valgte Nidelvens munning som et strategisk sted for å grunnlegge sin by, Nidaros.",
+          "hint_no": "Tenk på årstallet for byens grunnleggelse."
+        },
+        {
+          "text_no": "Hvilken type sopp, populær å plukke, er vanlig i skogene rundt Trondheim om høsten?",
+          "answers_no": [
+            "Kantarell",
+            "Steinsopp",
+            "Rørsopp",
+            "Alle disse"
+          ],
+          "correctAnswerIndex": 3,
+          "explanation_no": "Både kantarell, steinsopp og ulike rørsopparter er vanlige å finne og plukke i skogene rundt Trondheim om høsten.",
+          "difficulty": "Easy",
+          "learnMore_no": "Soppsanking er en populær friluftsaktivitet.",
+          "hint_no": "Det finnes mange spiselige sopper."
+        }
+      ]
+    }
+  ]
