@@ -15,4 +15,12 @@
     "price": 1.99,
     "productID": "com.mycompany.quiz.nature"
   }
+  {
+    "id": "3",
+    "title": "Test",
+    "filePath": "quizzes/nature.json",
+    "info": "Fitte", 
+    "price": 1.99,
+    "productID": "com.mycompany.quiz.nature"
+  }
 ]
