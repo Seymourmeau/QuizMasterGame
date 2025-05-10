@@ -9,17 +9,9 @@
   },
   {
     "id": "22222222-2222-2222-2222-222222222222",
-    "title": "Norsk Natur og Miljø",
-    "filePath": "quizzes/nature.json",
+    "title": "Fittequiz",
+    "filePath": "quizzes/fitte.json",
     "info": "Naturen e d som teller din skaille!", 
-    "price": 1.99,
-    "productID": "com.mycompany.quiz.nature"
-  }
-  {
-    "id": "3",
-    "title": "Test",
-    "filePath": "quizzes/nature.json",
-    "info": "Fitte", 
     "price": 1.99,
     "productID": "com.mycompany.quiz.nature"
   }
