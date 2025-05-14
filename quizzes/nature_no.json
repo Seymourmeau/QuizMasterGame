@@ -1,0 +1,1934 @@
+{
+  "categoryName_no": "Vitenskap og natur",
+  "questions": [
+    {
+      "text_no": "Hva er det kjemiske symbolet for Gull?",
+      "answers_no": [
+        "Go",
+        "Ag",
+        "Au",
+        "Gd"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Det kjemiske symbolet for Gull er Au, avledet fra det latinske navnet 'Aurum'. Ag er Sølv, Go og Gd er ikke symboler for Gull.",
+      "difficulty": "Easy",
+      "learnMore_no": "Gull er høyt verdsatt for sin sjeldenhet, formbarhet og motstand mot korrosjon. Det har blitt brukt i tusenvis av år i mynter, smykker og elektronikk. Dets atomnummer er 79, og det er en av de beste lederne for elektrisitet blant metaller.",
+      "hint_no": "Tenk på det latinske opphavet til ordet 'Gull'.",
+      "link_no": "https://no.wikipedia.org/wiki/Gull"
+    },
+    {
+      "text_no": "Omtrent hvor lang tid tar det for lys fra Solen å nå Jorden?",
+      "answers_no": [
+        "8 sekunder",
+        "8 minutter",
+        "8 timer",
+        "8 dager"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Lys beveger seg med omtrent 299 792 kilometer per sekund. Gitt avstanden mellom Solen og Jorden (omtrent 150 millioner km), tar det omtrent 8 minutter for lys å nå Jorden.",
+      "difficulty": "Easy",
+      "learnMore_no": "Denne forsinkelsen betyr at vi ser Solen slik den var for 8 minutter siden, ikke slik den er i sanntid.",
+      "hint_no": "Lysets hastighet er veldig rask, men avstanden er stor.",
+      "link_no": "https://no.wikipedia.org/wiki/Sol"
+    },
+    {
+      "text_no": "Hvilken planet er kjent som den 'Røde Planeten'?",
+      "answers_no": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Mars er kjent som den 'Røde Planeten' på grunn av sitt rødlige utseende, som skyldes jernoksid (rust) på overflaten.",
+      "difficulty": "Easy",
+      "learnMore_no": "Mars har vært et mål for utforskning av romfart på grunn av potensialet for å finne bevis på tidligere eller nåværende utenomjordisk liv.",
+      "hint_no": "Tenk på den romerske krigsguden.",
+      "link_no": "https://no.wikipedia.org/wiki/Mars"
+    },
+    {
+      "text_no": "Hva er den minste enheten av et element som beholder dets kjemiske egenskaper?",
+      "answers_no": [
+        "Molekyl",
+        "Atom",
+        "Proton",
+        "Elektron"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Et atom er den minste enheten av et element som beholder dets kjemiske egenskaper. Molekyler er dannet av atomer, og protoner og elektroner er subatomære partikler.",
+      "difficulty": "Easy",
+      "learnMore_no": "Atomer består av protoner, nøytroner og elektroner, og deres sammensetning bestemmer elementets egenskaper.",
+      "hint_no": "Det er den grunnleggende byggesteinen i materie.",
+      "link_no": "https://no.wikipedia.org/wiki/Atom"
+    },
+    {
+      "text_no": "Hvilket av følgende er ikke en type sky?",
+      "answers_no": [
+        "Cumulus",
+        "Nimbus",
+        "Stratus",
+        "Galaxy"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation_no": "En galakse er en stor samling av stjerner, gass og støv, mens cumulus, nimbus og stratus er typer skyer.",
+      "difficulty": "Easy",
+      "learnMore_no": "Skyer klassifiseres basert på deres høyde, form og tekstur, og de spiller en viktig rolle i jordens værsystem.",
+      "hint_no": "Tenk på ting i verdensrommet.",
+      "link_no": "https://no.wikipedia.org/wiki/Sky"
+    },
+    {
+      "text_no": "Hva er den kjemiske formelen for vann?",
+      "answers_no": [
+        "CO2",
+        "NaCl",
+        "H2O",
+        "O2"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Den kjemiske formelen for vann er H2O, som betyr at hvert vannmolekyl består av to hydrogenatomer og ett oksygenatom.",
+      "difficulty": "Easy",
+      "learnMore_no": "Vann er essensielt for alt kjent liv og dekker omtrent 71% av jordens overflate.",
+      "hint_no": "Tenk på antall hydrogen- og oksygenatomer.",
+      "link_no": "https://no.wikipedia.org/wiki/Vann"
+    },
+    {
+      "text_no": "Hvilket dyr er kjent for sin lange hals?",
+      "answers_no": [
+        "Elefant",
+        "Giraff",
+        "Kamel",
+        "Flodhest"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Giraffen er kjent for sin lange hals, som gjør at den kan nå blader høyt oppe i trær.",
+      "difficulty": "Easy",
+      "learnMore_no": "Giraffer er de høyeste landdyrene i verden og finnes i Afrika.",
+      "hint_no": "Den er høy og har flekker.",
+      "link_no": "https://no.wikipedia.org/wiki/Giraff"
+    },
+    {
+      "text_no": "Hva er fotosyntese?",
+      "answers_no": [
+        "Prosessen der dyr spiser mat",
+        "Prosessen der planter lager sin egen mat",
+        "Prosessen der vann fordamper",
+        "Prosessen der bergarter dannes"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Fotosyntese er prosessen der planter bruker sollys, vann og karbondioksid for å lage sin egen mat (sukker) og frigjøre oksygen.",
+      "difficulty": "Easy",
+      "learnMore_no": "Fotosyntese er avgjørende for livet på Jorden, da den produserer oksygenet vi puster.",
+      "hint_no": "Det har noe med planter og lys å gjøre.",
+      "link_no": "https://no.wikipedia.org/wiki/Fotosyntese"
+    },
+    {
+      "text_no": "Hvilket instrument brukes til å måle jordskjelv?",
+      "answers_no": [
+        "Termometer",
+        "Barometer",
+        "Seismograf",
+        "Hygrometer"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "En seismograf er et instrument som brukes til å måle og registrere jordskjelv. Den registrerer bevegelsene i bakken forårsaket av seismiske bølger.",
+      "difficulty": "Easy",
+      "learnMore_no": "Seismografer er viktige verktøy for å studere jordskjelv og forstå jordens indre struktur.",
+      "hint_no": "Det måler vibrasjoner i bakken.",
+      "link_no": "https://no.wikipedia.org/wiki/Seismograf"
+    },
+    {
+      "text_no": "Hvilken gass er mest utbredt i jordens atmosfære?",
+      "answers_no": [
+        "Oksygen",
+        "Karbondioksid",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Nitrogen er den mest utbredte gassen i jordens atmosfære, og utgjør omtrent 78%. Oksygen utgjør omtrent 21%.",
+      "difficulty": "Easy",
+      "learnMore_no": "Nitrogen er essensielt for plantevekst og spiller en viktig rolle i jordens klimasystem.",
+      "hint_no": "Det er ikke oksygen.",
+      "link_no": "https://no.wikipedia.org/wiki/Jordens_atmosf%C3%A6re"
+    },
+    {
+      "text_no": "Hvilket hav er det største i verden?",
+      "answers_no": [
+        "Atlanterhavet",
+        "Stillehavet",
+        "Indiahavet",
+        "Sørishavet"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Stillehavet er det største havet i verden, og dekker omtrent 30% av jordens overflate.",
+      "difficulty": "Easy",
+      "learnMore_no": "Stillehavet inneholder mange av verdens dypeste havgraver og har et rikt biologisk mangfold.",
+      "hint_no": "Det er på begge sider av Amerika.",
+      "link_no": "https://no.wikipedia.org/wiki/Stillehavet"
+    },
+    {
+      "text_no": "Hva er en vulkan?",
+      "answers_no": [
+        "En type elv",
+        "Et fjell som spyr ut lava",
+        "En stor innsjø",
+        "En ørken"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En vulkan er en fjellformasjon som spyr ut lava, aske og gass fra jordens indre.",
+      "difficulty": "Easy",
+      "learnMore_no": "Vulkaner dannes når smeltet stein (magma) stiger opp fra jordens mantel til overflaten.",
+      "hint_no": "Tenk på varme og stein.",
+      "link_no": "https://no.wikipedia.org/wiki/Vulkan"
+    },
+    {
+      "text_no": "Hvilket tre er kjent for sine høye røde trær?",
+      "answers_no": [
+        "Eik",
+        "Furu",
+        "Sequoia",
+        "Bjørk"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Sequoia-trær er kjent for sin enorme størrelse og røde farge. De er blant de største og eldste levende tingene på jorden.",
+      "difficulty": "Easy",
+      "learnMore_no": "Sequoia-trær finnes hovedsakelig i California, USA.",
+      "hint_no": "De er veldig høye og røde.",
+      "link_no": "https://no.wikipedia.org/wiki/Sequoia"
+    },
+    {
+      "text_no": "Hva er en stjerne?",
+      "answers_no": [
+        "En type stein",
+        "En himmellegeme som lyser",
+        "En type sky",
+        "En planet"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En stjerne er en himmellegeme som lyser på grunn av kjernefysisk fusjon i sin kjerne.",
+      "difficulty": "Easy",
+      "learnMore_no": "Solen er en stjerne, og den gir lys og varme til jorden.",
+      "hint_no": "Tenk på noe som lyser om natten.",
+      "link_no": "https://no.wikipedia.org/wiki/Stjerne"
+    },
+    {
+      "text_no": "Hvilket metall er flytende ved romtemperatur?",
+      "answers_no": [
+        "Jern",
+        "Gull",
+        "Kvikkølv",
+        "Sølv"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Kvikkølv er det eneste metallet som er flytende ved romtemperatur. Det brukes i termometre og andre instrumenter.",
+      "difficulty": "Easy",
+      "learnMore_no": "Kvikkølv er et tungmetall og er giftig i høye konsentrasjoner.",
+      "hint_no": "Det brukes i gamle termometre.",
+      "link_no": "https://no.wikipedia.org/wiki/Kvikk%C3%B8lv"
+    },
+    {
+      "text_no": "Hva er en foss?",
+      "answers_no": [
+        "En type blomst",
+        "En type fisk",
+        "Restene av et gammelt dyr eller plante",
+        "En type fjell"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "En foss er restene av et gammelt dyr eller plante som er bevart i stein.",
+      "difficulty": "Easy",
+      "learnMore_no": "Fossiler gir oss viktig informasjon om livet på jorden for millioner av år siden.",
+      "hint_no": "Det er fra noe som levde for lenge siden.",
+      "link_no": "https://no.wikipedia.org/wiki/Fossil"
+    },
+    {
+      "text_no": "Hvilket dyr er kjent for å endre farge?",
+      "answers_no": [
+        "Løve",
+        "Kameleon",
+        "Slange",
+        "Fugl"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Kameleonen er kjent for sin evne til å endre farge, som den bruker for kamuflasje og for å regulere kroppstemperaturen.",
+      "difficulty": "Easy",
+      "learnMore_no": "Kameleonens fargeendring er forårsaket av spesialiserte celler i huden som kalles kromatoforer.",
+      "hint_no": "Den kan matche omgivelsene.",
+      "link_no": "https://no.wikipedia.org/wiki/Kameleon"
+    },
+    {
+      "text_no": "Hvilken planet er den nærmeste Solen?",
+      "answers_no": [
+        "Venus",
+        "Mars",
+        "Merkur",
+        "Jorden"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Merkur er den nærmeste planeten til Solen. Den er også den minste planeten i vårt solsystem.",
+      "difficulty": "Easy",
+      "learnMore_no": "Merkur har ingen måner og en svært tynn atmosfære.",
+      "hint_no": "Den er liten og rask.",
+      "link_no": "https://no.wikipedia.org/wiki/Merkur"
+    },
+    {
+      "text_no": "Hva er en galakse?",
+      "answers_no": [
+        "En type stein",
+        "En samling av stjerner",
+        "En type sky",
+        "En planet"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En galakse er en stor samling av stjerner, gass, støv og mørk materie som holdes sammen av tyngdekraften.",
+      "difficulty": "Easy",
+      "learnMore_no": "Vår galakse kalles Melkeveien, og den inneholder milliarder av stjerner.",
+      "hint_no": "Tenk på noe stort i rommet.",
+      "link_no": "https://no.wikipedia.org/wiki/Galakse"
+    },
+    {
+      "text_no": "Hvilken fugl er kjent for å kunne etterligne menneskelig tale?",
+      "answers_no": [
+        "Pingvin",
+        "Papegøye",
+        "Ugle",
+        "Hauk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Papegøyer er kjent for sin evne til å etterligne menneskelig tale. Noen arter kan lære seg et stort antall ord og setninger.",
+      "difficulty": "Easy",
+      "learnMore_no": "Papegøyer er intelligente fugler og kan også forstå betydningen av noen av ordene de sier.",
+      "hint_no": "Den kan snakke.",
+      "link_no": "https://no.wikipedia.org/wiki/Papeg%C3%B8ye"
+    },
+    {
+      "text_no": "Hva er et pattedyr?",
+      "answers_no": [
+        "En type reptil",
+        "Et varmblodig dyr som dier ungene sine",
+        "En type fisk",
+        "Et kaldblodig dyr som legger egg"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Et pattedyr er et varmblodig dyr som dier ungene sine med melk. De har også pels eller hår.",
+      "difficulty": "Easy",
+      "learnMore_no": "Mennesker, hunder, katter og hvaler er alle eksempler på pattedyr.",
+      "hint_no": "Tenk på dyr som gir melk til ungene sine.",
+      "link_no": "https://no.wikipedia.org/wiki/Pattedyr"
+    },
+    {
+      "text_no": "Hva er tyngdekraft?",
+      "answers_no": [
+        "En type lyd",
+        "En kraft som trekker ting mot hverandre",
+        "En type lys",
+        "En type lukt"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Tyngdekraft er en kraft som trekker ting mot hverandre. Det er det som holder oss på bakken og holder planetene i bane rundt solen.",
+      "difficulty": "Easy",
+      "learnMore_no": "Tyngdekraften er sterkere jo større massen til et objekt er.",
+      "hint_no": "Det får ting til å falle ned.",
+      "link_no": "https://no.wikipedia.org/wiki/Tyngdekraft"
+    },
+    {
+      "text_no": "Hvilken planet er kjent for sine ringer?",
+      "answers_no": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptun"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Saturn er mest kjent for sine tydelige ringer, som består av milliarder av is- og steinpartikler.",
+      "difficulty": "Easy",
+      "learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+      "hint_no": "Den har et vakkert sett med ringer.",
+      "link_no": "https://no.wikipedia.org/wiki/Saturn"
+    },
+    {
+      "text_no": "Hva er en insekt?",
+      "answers_no": [
+        "En type fisk",
+        "Et dyr med seks bein",
+        "Et dyr med åtte bein",
+        "En type fugl"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Et insekt er et dyr med seks bein, en tredelt kropp (hode, thorax og abdomen) og vanligvis antenner.",
+      "difficulty": "Easy",
+      "learnMore_no": "Eksempler på insekter inkluderer maur, bier, sommerfugler og biller.",
+      "hint_no": "Det har seks bein.",
+      "link_no": "https://no.wikipedia.org/wiki/Insekt"
+    },
+    {
+      "text_no": "Hvilken type energi kommer fra solen?",
+      "answers_no": [
+        "Elektrisk energi",
+        "Kjemisk energi",
+        "Solenergi",
+        "Atomenergi"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Solenergi er energien som kommer fra solen i form av lys og varme.",
+      "difficulty": "Easy",
+      "learnMore_no": "Solenergi kan brukes til å generere elektrisitet og varme opp bygninger.",
+      "hint_no": "Det har noe med solen å gjøre.",
+      "link_no": "https://no.wikipedia.org/wiki/Solenergi"
+    },
+    {
+      "text_no": "Hva er en blomst?",
+      "answers_no": [
+        "En type stein",
+        "En del av en plante som produserer frø",
+        "En type sky",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En blomst er en del av en plante som produserer frø. Den er ofte fargerik og velduftende.",
+      "difficulty": "Easy",
+      "learnMore_no": "Blomster er viktige for reproduksjonen av blomstrende planter.",
+      "hint_no": "Den er vakker og kan lukte godt.",
+      "link_no": "https://no.wikipedia.org/wiki/Blomst"
+    },
+    {
+      "text_no": "Hvilket materiale er en god leder for elektrisitet?",
+      "answers_no": [
+        "Tre",
+        "Plast",
+        "Metall",
+        "Gummi"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Metall er en god leder for elektrisitet, noe som betyr at elektrisk strøm lett kan strømme gjennom det.",
+      "difficulty": "Easy",
+      "learnMore_no": "Kobber og aluminium er vanlige metaller som brukes i elektriske ledninger.",
+      "hint_no": "Tenk på hva ledninger er laget av.",
+      "link_no": "https://no.wikipedia.org/wiki/Elektrisk_ledning"
+    },
+    {
+      "text_no": "Hva er en tornado?",
+      "answers_no": [
+        "En type fisk",
+        "En roterende søyle av vind",
+        "En type fugl",
+        "En type stein"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En tornado er en voldsomt roterende søyle av vind som strekker seg fra en tordensky til bakken.",
+      "difficulty": "Easy",
+      "learnMore_no": "Tornadoer kan forårsake stor skade med sine sterke vinder og flygende rusk.",
+      "hint_no": "Det er en type ekstremvær.",
+      "link_no": "https://no.wikipedia.org/wiki/Tornado"
+    },
+    {
+      "text_no": "Hvilken planet er kjent for sin store røde flekk?",
+      "answers_no": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Jupiter er kjent for sin store røde flekk, som er en gigantisk storm som har vart i hundrevis av år.",
+      "difficulty": "Easy",
+      "learnMore_no": "Jupiter er den største planeten i vårt solsystem.",
+      "hint_no": "Den er veldig stor og har en stor storm.",
+      "link_no": "https://no.wikipedia.org/wiki/Jupiter"
+    },
+    {
+      "text_no": "Hva er en amfibie?",
+      "answers_no": [
+        "En type fisk",
+        "Et dyr som kan leve både i vann og på land",
+        "En type fugl",
+        "En type stein"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En amfibie er et kaldblodig dyr som kan leve både i vann og på land. Eksempler inkluderer frosker, salamandere og padder.",
+      "difficulty": "Easy",
+      "learnMore_no": "Amfibier gjennomgår en metamorfose, som for eksempel når en rumpetroll blir en frosk.",
+      "hint_no": "Den kan leve både i vann og på land.",
+      "link_no": "https://no.wikipedia.org/wiki/Amfibier"
+    },
+    {
+      "text_no": "Hvilken gass trenger vi å puste?",
+      "answers_no": [
+        "Karbondioksid",
+        "Nitrogen",
+        "Oksygen",
+        "Hydrogen"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Vi trenger oksygen for å puste. Det er essensielt for vår overlevelse.",
+      "difficulty": "Easy",
+      "learnMore_no": "Oksygen tas opp av lungene og transporteres til cellene i kroppen.",
+      "hint_no": "Det er i luften vi puster.",
+      "link_no": "https://no.wikipedia.org/wiki/Oksygen"
+    },
+    {
+      "text_no": "Hva er et virus?",
+      "answers_no": [
+        "En type stein",
+        "En liten partikkel som kan forårsake sykdom",
+        "En type plante",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Et virus er en liten partikkel som kan infisere levende celler og forårsake sykdom.",
+      "difficulty": "Easy",
+      "learnMore_no": "Virus er ikke klassifisert som levende fordi de ikke kan reprodusere seg selvstendig.",
+      "hint_no": "Det kan gjøre deg syk.",
+      "link_no": "https://no.wikipedia.org/wiki/Virus"
+    },
+    {
+      "text_no": "Hvilket dyr er kjent for å sove om vinteren?",
+      "answers_no": [
+        "Løve",
+        "Bjørn",
+        "Elefant",
+        "Giraff"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Bjørner er kjent for å gå i dvale om vinteren. De går inn i en tilstand av dyp søvn for å spare energi når maten er knapp.",
+      "difficulty": "Easy",
+      "learnMore_no": "Andre dyr som flaggermus og pinnsvin går også i dvale.",
+      "hint_no": "Den er stor og har pels.",
+      "link_no": "https://no.wikipedia.org/wiki/Dvale"
+    },
+    {
+      "text_no": "Hva er en regnbue?",
+      "answers_no": [
+        "En type stein",
+        "En bue av farger på himmelen",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En regnbue er en bue av farger på himmelen forårsaket av brytning og refleksjon av sollys i vanndråper.",
+      "difficulty": "Easy",
+      "learnMore_no": "Fargene i en regnbue er vanligvis rød, oransje, gul, grønn, blå, indigo og fiolett.",
+      "hint_no": "Den kommer etter regn.",
+      "link_no": "https://no.wikipedia.org/wiki/Regnbue"
+    },
+    {
+      "text_no": "Hvilket materiale er gjennomsiktig?",
+      "answers_no": [
+        "Tre",
+        "Metall",
+        "Glass",
+        "Stein"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Glass er gjennomsiktig, noe som betyr at lys kan passere gjennom det slik at du kan se gjennom det.",
+      "difficulty": "Easy",
+      "learnMore_no": "Andre gjennomsiktige materialer inkluderer vann og luft.",
+      "hint_no": "Det brukes i vinduer.",
+      "link_no": "https://no.wikipedia.org/wiki/Gjennomsiktighet"
+    },
+    {
+      "text_no": "Hva er et ekko?",
+      "answers_no": [
+        "En type stein",
+        "En lyd som gjentas",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Et ekko er en lyd som gjentas etter å ha blitt reflektert av en overflate.",
+      "difficulty": "Easy",
+      "learnMore_no": "Ekko brukes av noen dyr som flaggermus og delfiner for å navigere og finne byttedyr.",
+      "hint_no": "Du hører det i en tom hall.",
+      "link_no": "https://no.wikipedia.org/wiki/Ekko"
+    },
+    {
+      "text_no": "Hvilken planet er kjent som 'Morgenstjernen' eller 'Aftenstjernen'?",
+      "answers_no": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "Venus er kjent som 'Morgenstjernen' eller 'Aftenstjernen' fordi den er det klareste objektet på nattehimmelen etter månen.",
+      "difficulty": "Easy",
+      "learnMore_no": "Venus er den varmeste planeten i vårt solsystem.",
+      "hint_no": "Den er veldig lys.",
+      "link_no": "https://no.wikipedia.org/wiki/Venus"
+    },
+    {
+      "text_no": "Hva er en reptil?",
+      "answers_no": [
+        "Et kaldblodig dyr som legger egg",
+        "Et varmblodig dyr som dier ungene sine",
+        "En type fisk",
+        "En type fugl"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "En reptil er et kaldblodig dyr som legger egg. De har skjell og puster med lunger.",
+      "difficulty": "Easy",
+      "learnMore_no": "Eksempler på reptiler inkluderer slanger, øgler, skilpadder og krokodiller.",
+      "hint_no": "Den har skjell.",
+      "link_no": "https://no.wikipedia.org/wiki/Reptil"
+    },
+    {
+      "text_no": "Hvilken type energi er lagret i batterier?",
+      "answers_no": [
+        "Elektrisk energi",
+        "Kjemisk energi",
+        "Solenergi",
+        "Atomenergi"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Kjemisk energi er lagret i batterier. Denne energien frigjøres som elektrisk energi når batteriet er koblet til en krets.",
+      "difficulty": "Easy",
+      "learnMore_no": "Batterier brukes i mange enheter, fra telefoner til biler.",
+      "hint_no": "Det har noe med kjemiske reaksjoner å gjøre.",
+      "link_no": "https://no.wikipedia.org/wiki/Batteri_(elektrisk)"
+    },
+    {
+      "text_no": "Hva er en orkan?",
+      "answers_no": [
+        "En type stein",
+        "En kraftig tropisk storm",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En orkan er en kraftig tropisk storm med vindhastigheter på 119 kilometer i timen eller mer.",
+      "difficulty": "Easy",
+      "learnMore_no": "Orkaner dannes over varmt havvann og kan forårsake stor skade.",
+      "hint_no": "Det er en type ekstremvær.",
+      "link_no": "https://no.wikipedia.org/wiki/Orkan"
+    },
+    {
+      "text_no": "Hvilken planet er kjent som 'Jorden tvilling'?",
+      "answers_no": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "Venus er noen ganger kjent som 'Jorden tvilling' fordi den er lik i størrelse og sammensetning som Jorden.",
+      "difficulty": "Easy",
+      "learnMore_no": "Venus har en tett atmosfære og er den varmeste planeten i vårt solsystem.",
+      "hint_no": "Den ligner på Jorden.",
+      "link_no": "https://no.wikipedia.org/wiki/Venus"
+    },
+    {
+      "text_no": "Hva er en fugl?",
+      "answers_no": [
+        "Et dyr med fjær og vinger",
+        "Et dyr med pels og fire bein",
+        "En type fisk",
+        "En type stein"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "En fugl er et varmblodig dyr med fjær, vinger og et nebb. De legger egg.",
+      "difficulty": "Easy",
+      "learnMore_no": "Fugler finnes over hele verden i en rekke habitater.",
+      "hint_no": "Den kan fly.",
+      "link_no": "https://no.wikipedia.org/wiki/Fugl"
+    },
+    {
+      "text_no": "Hva er en planet?",
+      "answers_no": [
+        "En type stein",
+        "En himmellegeme som går i bane rundt en stjerne",
+        "En type sky",
+        "En type fugl"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En planet er en himmellegeme som går i bane rundt en stjerne, som solen. Den er stor nok til at dens egen tyngdekraft har tvunget den til en rund form.",
+      "difficulty": "Easy",
+      "learnMore_no": "Det er åtte planeter i vårt solsystem: Merkur, Venus, Jorden, Mars, Jupiter, Saturn, Uranus og Neptun.",
+      "hint_no": "Jorden er en av dem.",
+      "link_no": "https://no.wikipedia.org/wiki/Planet"
+    },
+    {
+      "text_no": "Hvilken type energi bruker planter til å vokse?",
+      "answers_no": [
+        "Elektrisk energi",
+        "Kjemisk energi",
+        "Solenergi",
+        "Atomenergi"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Planter bruker solenergi til å vokse. Gjennom fotosyntese omdanner de sollys til kjemisk energi.",
+      "difficulty": "Easy",
+      "learnMore_no": "Fotosyntese er avgjørende for livet på jorden, da den produserer oksygen.",
+      "hint_no": "Det kommer fra solen.",
+      "link_no": "https://no.wikipedia.org/wiki/Fotosyntese"
+    },
+    {
+      "text_no": "Hva er en vulkan?",
+      "answers_no": [
+        "En type stein",
+        "En åpning i jordskorpen som spyr ut lava",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En vulkan er en åpning i jordskorpen hvor smeltet stein (magma), aske og gass kan strømme ut.",
+      "difficulty": "Easy",
+      "learnMore_no": "Vulkanutbrudd kan være både destruktive og kreative, og forme landskapet over tid.",
+      "hint_no": "Det spyr ut lava.",
+      "link_no": "https://no.wikipedia.org/wiki/Vulkan"
+    },
+    {
+      "text_no": "Hvilken planet er kjent for sin store røde flekk?",
+      "answers_no": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Jupiter er kjent for sin store røde flekk, som er en gigantisk storm som har vart i hundrevis av år.",
+      "difficulty": "Easy",
+      "learnMore_no": "Jupiter er den største planeten i vårt solsystem.",
+      "hint_no": "Den er veldig stor og har en stor storm.",
+      "link_no": "https://no.wikipedia.org/wiki/Jupiter"
+    },
+    {
+      "text_no": "Hva er en fisk?",
+      "answers_no": [
+        "Et dyr som lever i vann og puster med gjeller",
+        "Et dyr som lever på land og puster med lunger",
+        "En type fugl",
+        "En type stein"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "En fisk er et dyr som lever i vann og puster med gjeller. De har finner og legger egg.",
+      "difficulty": "Easy",
+      "learnMore_no": "Det finnes et stort mangfold av fiskearter i verdenshavene og ferskvann.",
+      "hint_no": "Den lever i vann.",
+      "link_no": "https://no.wikipedia.org/wiki/Fisk"
+    },
+    {
+      "text_no": "Hvilken type energi får vi fra mat?",
+      "answers_no": [
+        "Elektrisk energi",
+        "Kjemisk energi",
+        "Solenergi",
+        "Atomenergi"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Vi får kjemisk energi fra mat. Kroppen vår bryter ned maten for å frigjøre energi som vi kan bruke.",
+      "difficulty": "Easy",
+      "learnMore_no": "Denne energien brukes til alle våre kroppsfunksjoner, fra å bevege oss til å tenke.",
+      "hint_no": "Det er lagret i bindingene mellom molekyler.",
+      "link_no": "https://no.wikipedia.org/wiki/Mat"
+    },
+    {
+      "text_no": "Hva er en stjerne?",
+      "answers_no": [
+        "En type stein",
+        "En himmellegeme som lyser",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En stjerne er en himmellegeme som lyser på grunn av kjernefysisk fusjon i sin kjerne.",
+      "difficulty": "Easy",
+      "learnMore_no": "Solen er en stjerne, og den gir lys og varme til jorden.",
+      "hint_no": "Den lyser om natten.",
+      "link_no": "https://no.wikipedia.org/wiki/Stjerne"
+    },
+    {
+      "text_no": "Hvilken planet er kjent for sine ringer?",
+      "answers_no": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptun"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Saturn er mest kjent for sine tydelige ringer, som består av milliarder av is- og steinpartikler.",
+      "difficulty": "Easy",
+      "learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+      "hint_no": "Den har et vakkert sett med ringer.",
+      "link_no": "https://no.wikipedia.org/wiki/Saturn"
+    },
+    {
+      "text_no": "Hva er et insekt?",
+      "answers_no": [
+        "Et dyr med seks bein",
+        "Et dyr med åtte bein",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "Et insekt er et dyr med seks bein, en tredelt kropp og vanligvis antenner.",
+      "difficulty": "Easy",
+      "learnMore_no": "Eksempler på insekter inkluderer maur, bier, sommerfugler og biller.",
+      "hint_no": "Den har seks bein.",
+      "link_no": "https://no.wikipedia.org/wiki/Insekt"
+    },
+    {
+      "text_no": "Hvilken type energi kommer fra vinden?",
+      "answers_no": [
+        "Elektrisk energi",
+        "Kjemisk energi",
+        "Vindenergi",
+        "Atomenergi"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Vindenergi er energien som kommer fra vinden. Den kan brukes til å generere elektrisitet med vindturbiner.",
+      "difficulty": "Easy",
+      "learnMore_no": "Vindenergi er en ren og fornybar energikilde.",
+      "hint_no": "Det har noe med bevegelse av luft å gjøre.",
+      "link_no": "https://no.wikipedia.org/wiki/Vindenergi"
+    },
+    {
+      "text_no": "Hva er en blomst?",
+      "answers_no": [
+        "En type stein",
+        "En del av en plante som produserer frø",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En blomst er en del av en plante som produserer frø. Den er ofte fargerik og velduftende.",
+      "difficulty": "Easy",
+      "learnMore_no": "Blomster er viktige for reproduksjonen av blomstrende planter.",
+      "hint_no": "Den er vakker og kan lukte godt.",
+      "link_no": "https://no.wikipedia.org/wiki/Blomst"
+    },
+    {
+      "text_no": "Hvilket materiale er en god leder for varme?",
+      "answers_no": [
+        "Tre",
+        "Plast",
+        "Metall",
+        "Luft"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Metall er en god leder for varme, noe som betyr at varme lett kan strømme gjennom det.",
+      "difficulty": "Easy",
+      "learnMore_no": "Derfor brukes metall i kasseroller og panner.",
+      "hint_no": "Det føles kaldt å ta på.",
+      "link_no": "https://no.wikipedia.org/wiki/Varmeledning"
+    },
+    {
+      "text_no": "Hva er en orkan?",
+      "answers_no": [
+        "En type stein",
+        "En kraftig tropisk storm",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En orkan er en kraftig tropisk storm med vindhastigheter på 119 kilometer i timen eller mer.",
+      "difficulty": "Easy",
+      "learnMore_no": "Orkaner dannes over varmt havvann og kan forårsake stor skade.",
+      "hint_no": "Det er en type ekstremvær.",
+      "link_no": "https://no.wikipedia.org/wiki/Orkan"
+    },
+    {
+      "text_no": "Hvilken planet er kjent som 'Jorden tvilling'?",
+      "answers_no": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "Venus er noen ganger kjent som 'Jorden tvilling' fordi den er lik i størrelse og sammensetning som Jorden.",
+      "difficulty": "Easy",
+      "learnMore_no": "Venus har en tett atmosfære og er den varmeste planeten i vårt solsystem.",
+      "hint_no": "Den ligner på Jorden.",
+      "link_no": "https://no.wikipedia.org/wiki/Venus"
+    },
+    {
+      "text_no": "Hva er en reptil?",
+      "answers_no": [
+        "Et kaldblodig dyr som legger egg",
+        "Et varmblodig dyr som dier ungene sine",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "En reptil er et kaldblodig dyr som legger egg. De har skjell og puster med lunger.",
+      "difficulty": "Easy",
+      "learnMore_no": "Eksempler på reptiler inkluderer slanger, øgler, skilpadder og krokodiller.",
+      "hint_no": "Den har skjell.",
+      "link_no": "https://no.wikipedia.org/wiki/Reptil"
+    },
+    {
+      "text_no": "Hvilken type energi er lagret i en fjær?",
+      "answers_no": [
+        "Elektrisk energi",
+        "Kjemisk energi",
+        "Potensiell energi",
+        "Atomenergi"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Potensiell energi er lagret i en fjær når den er komprimert eller strukket. Denne energien kan frigjøres når fjæren går tilbake til sin opprinnelige form.",
+      "difficulty": "Easy",
+      "learnMore_no": "Potensiell energi er energi som er lagret i et objekt på grunn av dets posisjon eller tilstand.",
+      "hint_no": "Den er klar til å bli frigjort.",
+      "link_no": "https://no.wikipedia.org/wiki/Potensiell_energi"
+    },
+    {
+      "text_no": "Hva er en tsunami?",
+      "answers_no": [
+        "En type stein",
+        "En stor bølge forårsaket av et jordskjelv",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En tsunami er en stor bølge forårsaket av et jordskjelv, vulkanutbrudd eller andre undervannsforstyrrelser.",
+      "difficulty": "Easy",
+      "learnMore_no": "Tsunamier kan forårsake enorm ødeleggelse i kystområder.",
+      "hint_no": "Det er en stor vannbølge.",
+      "link_no": "https://no.wikipedia.org/wiki/Tsunami"
+    },
+    {
+      "text_no": "Hvilken planet er kjent som 'Morgenstjernen' eller 'Aftenstjernen'?",
+      "answers_no": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "Venus er kjent som 'Morgenstjernen' eller 'Aftenstjernen' fordi den er det klareste objektet på nattehimmelen etter månen.",
+      "difficulty": "Easy",
+      "learnMore_no": "Venus er den varmeste planeten i vårt solsystem.",
+      "hint_no": "Den er veldig lys.",
+      "link_no": "https://no.wikipedia.org/wiki/Venus"
+    },
+    {
+      "text_no": "Hva er et pattedyr?",
+      "answers_no": [
+        "Et varmblodig dyr som dier ungene sine",
+        "Et kaldblodig dyr som legger egg",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation_no": "Et pattedyr er et varmblodig dyr som dier ungene sine med melk. De har også pels eller hår.",
+      "difficulty": "Easy",
+      "learnMore_no": "Mennesker, hunder, katter og hvaler er alle eksempler på pattedyr.",
+      "hint_no": "Den gir melk til ungene sine.",
+      "link_no": "https://no.wikipedia.org/wiki/Pattedyr"
+    },
+    {
+      "text_no": "Hvilken type energi bruker vi til å se?",
+      "answers_no": [
+        "Elektrisk energi",
+        "Kjemisk energi",
+        "Lysenergi",
+        "Atomenergi"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation_no": "Vi bruker lysenergi til å se. Lys reflekteres fra objekter og inn i øynene våre.",
+      "difficulty": "Easy",
+      "learnMore_no": "Øynene våre inneholder celler som er følsomme for lys.",
+      "hint_no": "Det kommer fra solen eller en lyspære.",
+      "link_no": "https://no.wikipedia.org/wiki/Lys"
+    },
+    {
+      "text_no": "Hva er en tornado?",
+      "answers_no": [
+        "En type stein",
+        "En roterende søyle av vind",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En tornado er en voldsomt roterende søyle av vind som strekker seg fra en tordensky til bakken.",
+      "difficulty": "Easy",
+      "learnMore_no": "Tornadoer kan forårsake stor skade med sine sterke vinder.",
+      "hint_no": "Det er en virvelvind.",
+      "link_no": "https://no.wikipedia.org/wiki/Tornado"
+    },
+    {
+      "text_no": "Hvilken planet er kjent for sine ringer?",
+      "answers_no": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptun"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "Saturn er mest kjent for sine tydelige ringer, som består av milliarder av is- og steinpartikler.",
+      "difficulty": "Easy",
+      "learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+      "hint_no": "Den har et vakkert sett med ringer.",
+      "link_no": "https://no.wikipedia.org/wiki/Saturn"
+    },
+    {
+      "text_no": "Hva er en edderkopp?",
+      "answers_no": [
+        "Et dyr med seks bein",
+        "Et dyr med åtte bein",
+        "En type fugl",
+        "En type fisk"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation_no": "En edderkopp er et dyr med åtte bein, to kroppsdeler og chelicerae (kjeveklør). De er ikke insekter.",
+      "difficulty": "Easy",
+"learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+"hint_no": "Den har et vakkert sett med ringer.",
+"link_no": "https://no.wikipedia.org/wiki/Saturn"
+},
+{
+"text_no": "Hva er en edderkopp?",
+"answers_no": [
+"Et dyr med seks bein",
+"Et dyr med åtte bein",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En edderkopp er et dyr med åtte bein, to kroppsdeler og chelicerae (kjeveklør). De er ikke insekter.",
+"difficulty": "Easy",
+"learnMore_no": "Edderkopper er rovdyr og bruker ofte edderkoppnett for å fange byttedyr.",
+"hint_no": "Den har åtte bein.",
+"link_no": "https://no.wikipedia.org/wiki/Edderkopper"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å høre?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lydenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lydenergi til å høre. Lydbølger får trommehinnene våre til å vibrere.",
+"difficulty": "Easy",
+"learnMore_no": "Lyd kan reise gjennom luft, vann og faste stoffer.",
+"hint_no": "Det har noe med vibrasjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Lyd"
+},
+{
+"text_no": "Hva er en foss?",
+"answers_no": [
+"En type stein",
+"Restene av et gammelt dyr eller plante",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En foss er restene av et gammelt dyr eller plante som er bevart i stein.",
+"difficulty": "Easy",
+"learnMore_no": "Fossiler gir oss viktig informasjon om livet på jorden for millioner av år siden.",
+"hint_no": "Det er fra noe som levde for lenge siden.",
+"link_no": "https://no.wikipedia.org/wiki/Fossil"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Den røde planeten'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Mars er kjent som 'Den røde planeten' på grunn av sitt rødlige utseende, som skyldes jernoksid (rust) på overflaten.",
+"difficulty": "Easy",
+"learnMore_no": "Mars har vært et mål for utforskning av romfart på grunn av potensialet for å finne bevis på tidligere eller nåværende utenomjordisk liv.",
+"hint_no": "Den er rød.",
+"link_no": "https://no.wikipedia.org/wiki/Mars"
+},
+{
+"text_no": "Hva er en amfibie?",
+"answers_no": [
+"Et dyr som kan leve både i vann og på land",
+"Et dyr som bare lever i vann",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "En amfibie er et kaldblodig dyr som kan leve både i vann og på land. Eksempler inkluderer frosker, salamandere og padder.",
+"difficulty": "Easy",
+"learnMore_no": "Amfibier gjennomgår en metamorfose, som for eksempel når en rumpetroll blir en frosk.",
+"hint_no": "Den lever både i vann og på land.",
+"link_no": "https://no.wikipedia.org/wiki/Amfibier"
+},
+{
+"text_no": "Hvilken type energi er lagret i et batteri?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Potensiell energi",
+"Atomenergi"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Kjemisk energi er lagret i et batteri. Denne energien frigjøres som elektrisk energi når batteriet er koblet til en krets.",
+"difficulty": "Easy",
+"learnMore_no": "Batterier brukes i mange enheter, fra telefoner til biler.",
+"hint_no": "Det har noe med kjemiske reaksjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Batteri_(elektrisk"
+},
+{
+"text_no": "Hva er en tsunami?",
+"answers_no": [
+"En type stein",
+"En stor bølge forårsaket av et jordskjelv",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tsunami er en stor bølge forårsaket av et jordskjelv, vulkanutbrudd eller andre undervannsforstyrrelser.",
+"difficulty": "Easy",
+"learnMore_no": "Tsunamier kan forårsake enorm ødeleggelse i kystområder.",
+"hint_no": "Det er en stor vannbølge.",
+"link_no": "https://no.wikipedia.org/wiki/Tsunami"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Morgenstjernen' eller 'Aftenstjernen'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Venus er kjent som 'Morgenstjernen' eller 'Aftenstjernen' fordi den er det klareste objektet på nattehimmelen etter månen.",
+"difficulty": "Easy",
+"learnMore_no": "Venus er den varmeste planeten i vårt solsystem.",
+"hint_no": "Den er veldig lys.",
+"link_no": "https://no.wikipedia.org/wiki/Venus"
+},
+{
+"text_no": "Hva er et pattedyr?",
+"answers_no": [
+"Et varmblodig dyr som dier ungene sine",
+"Et kaldblodig dyr som legger egg",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Et pattedyr er et varmblodig dyr som dier ungene sine med melk. De har også pels eller hår.",
+"difficulty": "Easy",
+"learnMore_no": "Mennesker, hunder, katter og hvaler er alle eksempler på pattedyr.",
+"hint_no": "Den gir melk til ungene sine.",
+"link_no": "https://no.wikipedia.org/wiki/Pattedyr"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å se?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lysenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lysenergi til å se. Lys reflekteres fra objekter og inn i øynene våre.",
+"difficulty": "Easy",
+"learnMore_no": "Øynene våre inneholder celler som er følsomme for lys.",
+"hint_no": "Det kommer fra solen eller en lyspære.",
+"link_no": "https://no.wikipedia.org/wiki/Lys"
+},
+{
+"text_no": "Hva er en tornado?",
+"answers_no": [
+"En type stein",
+"En roterende søyle av vind",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tornado er en voldsomt roterende søyle av vind som strekker seg fra en tordensky til bakken.",
+"difficulty": "Easy",
+"learnMore_no": "Tornadoer kan forårsake stor skade med sine sterke vinder.",
+"hint_no": "Det er en virvelvind.",
+"link_no": "https://no.wikipedia.org/wiki/Tornado"
+},
+{
+"text_no": "Hvilken planet er kjent for sine ringer?",
+"answers_no": [
+"Jupiter",
+"Saturn",
+"Uranus",
+"Neptun"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Saturn er mest kjent for sine tydelige ringer, som består av milliarder av is- og steinpartikler.",
+"difficulty": "Easy",
+"learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+"hint_no": "Den har et vakkert sett med ringer.",
+"link_no": "https://no.wikipedia.org/wiki/Saturn"
+},
+{
+"text_no": "Hva er en edderkopp?",
+"answers_no": [
+"Et dyr med seks bein",
+"Et dyr med åtte bein",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En edderkopp er et dyr med åtte bein, to kroppsdeler og chelicerae (kjeveklør). De er ikke insekter.",
+"difficulty": "Easy",
+"learnMore_no": "Edderkopper er rovdyr og bruker ofte edderkoppnett for å fange byttedyr.",
+"hint_no": "Den har åtte bein.",
+"link_no": "https://no.wikipedia.org/wiki/Edderkopper"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å høre?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lydenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lydenergi til å høre. Lydbølger får trommehinnene våre til å vibrere.",
+"difficulty": "Easy",
+"learnMore_no": "Lyd kan reise gjennom luft, vann og faste stoffer.",
+"hint_no": "Det har noe med vibrasjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Lyd"
+},
+{
+"text_no": "Hva er en foss?",
+"answers_no": [
+"En type stein",
+"Restene av et gammelt dyr eller plante",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En foss er restene av et gammelt dyr eller plante som er bevart i stein.",
+"difficulty": "Easy",
+"learnMore_no": "Fossiler gir oss viktig informasjon om livet på jorden for millioner av år siden.",
+"hint_no": "Det er fra noe som levde for lenge siden.",
+"link_no": "https://no.wikipedia.org/wiki/Fossil"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Den røde planeten'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Mars er kjent som 'Den røde planeten' på grunn av sitt rødlige utseende, som skyldes jernoksid (rust) på overflaten.",
+"difficulty": "Easy",
+"learnMore_no": "Mars har vært et mål for utforskning av romfart på grunn av potensialet for å finne bevis på tidligere eller nåværende utenomjordisk liv.",
+"hint_no": "Den er rød.",
+"link_no": "https://no.wikipedia.org/wiki/Mars"
+},
+{
+"text_no": "Hva er en amfibie?",
+"answers_no": [
+"Et dyr som kan leve både i vann og på land",
+"Et dyr som bare lever i vann",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "En amfibie er et kaldblodig dyr som kan leve både i vann og på land. Eksempler inkluderer frosker, salamandere og padder.",
+"difficulty": "Easy",
+"learnMore_no": "Amfibier gjennomgår en metamorfose, som for eksempel når en rumpetroll blir en frosk.",
+"hint_no": "Den lever både i vann og på land.",
+"link_no": "https://no.wikipedia.org/wiki/Amfibier"
+},
+{
+"text_no": "Hvilken type energi er lagret i et batteri?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Potensiell energi",
+"Atomenergi"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Kjemisk energi er lagret i et batteri. Denne energien frigjøres som elektrisk energi når batteriet er koblet til en krets.",
+"difficulty": "Easy",
+"learnMore_no": "Batterier brukes i mange enheter, fra telefoner til biler.",
+"hint_no": "Det har noe med kjemiske reaksjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Batteri_(elektrisk"
+},
+{
+"text_no": "Hva er en tsunami?",
+"answers_no": [
+"En type stein",
+"En stor bølge forårsaket av et jordskjelv",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tsunami er en stor bølge forårsaket av et jordskjelv, vulkanutbrudd eller andre undervannsforstyrrelser.",
+"difficulty": "Easy",
+"learnMore_no": "Tsunamier kan forårsake enorm ødeleggelse i kystområder.",
+"hint_no": "Det er en stor vannbølge.",
+"link_no": "https://no.wikipedia.org/wiki/Tsunami"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Morgenstjernen' eller 'Aftenstjernen'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Venus er kjent som 'Morgenstjernen' eller 'Aftenstjernen' fordi den er det klareste objektet på nattehimmelen etter månen.",
+"difficulty": "Easy",
+"learnMore_no": "Venus er den varmeste planeten i vårt solsystem.",
+"hint_no": "Den er veldig lys.",
+"link_no": "https://no.wikipedia.org/wiki/Venus"
+},
+{
+"text_no": "Hva er et pattedyr?",
+"answers_no": [
+"Et varmblodig dyr som dier ungene sine",
+"Et kaldblodig dyr som legger egg",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanationno": [
+"Et varmblodig dyr som dier ungene sine",
+"Et kaldblodig dyr som legger egg",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Et pattedyr er et varmblodig dyr som dier ungene sine med melk. De har også pels eller hår.",
+"difficulty": "Easy",
+"learnMore_no": "Mennesker, hunder, katter og hvaler er alle eksempler på pattedyr.",
+"hint_no": "Den gir melk til ungene sine.",
+"link_no": "https://no.wikipedia.org/wiki/Pattedyr"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å se?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lysenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lysenergi til å se. Lys reflekteres fra objekter og inn i øynene våre.",
+"difficulty": "Easy",
+"learnMore_no": "Øynene våre inneholder celler som er følsomme for lys.",
+"hint_no": "Det kommer fra solen eller en lyspære.",
+"link_no": "https://no.wikipedia.org/wiki/Lys"
+},
+{
+"text_no": "Hva er en tornado?",
+"answers_no": [
+"En type stein",
+"En roterende søyle av vind",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tornado er en voldsomt roterende søyle av vind som strekker seg fra en tordensky til bakken.",
+"difficulty": "Easy",
+"learnMore_no": "Tornadoer kan forårsake stor skade med sine sterke vinder.",
+"hint_no": "Det er en virvelvind.",
+"link_no": "https://no.wikipedia.org/wiki/Tornado"
+},
+{
+"text_no": "Hvilken planet er kjent for sine ringer?",
+"answers_no": [
+"Jupiter",
+"Saturn",
+"Uranus",
+"Neptun"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Saturn er mest kjent for sine tydelige ringer, som består av milliarder av is- og steinpartikler.",
+"difficulty": "Easy",
+"learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+"hint_no": "Den har et vakkert sett med ringer.",
+"link_no": "https://no.wikipedia.org/wiki/Saturn"
+},
+{
+"text_no": "Hva er en edderkopp?",
+"answers_no": [
+"Et dyr med seks bein",
+"Et dyr med åtte bein",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En edderkopp er et dyr med åtte bein, to kroppsdeler og chelicerae (kjeveklør). De er ikke insekter.",
+"difficulty": "Easy",
+"learnMore_no": "Edderkopper er rovdyr og bruker ofte edderkoppnett for å fange byttedyr.",
+"hint_no": "Den har åtte bein.",
+"link_no": "https://no.wikipedia.org/wiki/Edderkopper"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å høre?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lydenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lydenergi til å høre. Lydbølger får trommehinnene våre til å vibrere.",
+"difficulty": "Easy",
+"learnMore_no": "Lyd kan reise gjennom luft, vann og faste stoffer.",
+"hint_no": "Det har noe med vibrasjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Lyd"
+},
+{
+"text_no": "Hva er en foss?",
+"answers_no": [
+"En type stein",
+"Restene av et gammelt dyr eller plante",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En foss er restene av et gammelt dyr eller plante som er bevart i stein.",
+"difficulty": "Easy",
+"learnMore_no": "Fossiler gir oss viktig informasjon om livet på jorden for millioner av år siden.",
+"hint_no": "Det er fra noe som levde for lenge siden.",
+"link_no": "https://no.wikipedia.org/wiki/Fossil"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Den røde planeten'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Mars er kjent som 'Den røde planeten' på grunn av sitt rødlige utseende, som skyldes jernoksid (rust) på overflaten.",
+"difficulty": "Easy",
+"learnMore_no": "Mars har vært et mål for utforskning av romfart på grunn av potensialet for å finne bevis på tidligere eller nåværende utenomjordisk liv.",
+"hint_no": "Den er rød.",
+"link_no": "https://no.wikipedia.org/wiki/Mars"
+},
+{
+"text_no": "Hva er en amfibie?",
+"answers_no": [
+"Et dyr som kan leve både i vann og på land",
+"Et dyr som bare lever i vann",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "En amfibie er et kaldblodig dyr som kan leve både i vann og på land. Eksempler inkluderer frosker, salamandere og padder.",
+"difficulty": "Easy",
+"learnMore_no": "Amfibier gjennomgår en metamorfose, som for eksempel når en rumpetroll blir en frosk.",
+"hint_no": "Den lever både i vann og på land.",
+"link_no": "https://no.wikipedia.org/wiki/Amfibier"
+},
+{
+"text_no": "Hvilken type energi er lagret i et batteri?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Potensiell energi",
+"Atomenergi"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Kjemisk energi er lagret i et batteri. Denne energien frigjøres som elektrisk energi når batteriet er koblet til en krets.",
+"difficulty": "Easy",
+"learnMore_no": "Batterier brukes i mange enheter, fra telefoner til biler.",
+"hint_no": "Det har noe med kjemiske reaksjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Batteri_(elektrisk"
+},
+{
+"text_no": "Hva er en tsunami?",
+"answers_no": [
+"En type stein",
+"En stor bølge forårsaket av et jordskjelv",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tsunami er en stor bølge forårsaket av et jordskjelv, vulkanutbrudd eller andre undervannsforstyrrelser.",
+"difficulty": "Easy",
+"learnMore_no": "Tsunamier kan forårsake enorm ødeleggelse i kystområder.",
+"hint_no": "Det er en stor vannbølge.",
+"link_no": "https://no.wikipedia.org/wiki/Tsunami"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Morgenstjernen' eller 'Aftenstjernen'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Venus er kjent som 'Morgenstjernen' eller 'Aftenstjernen' fordi den er det klareste objektet på nattehimmelen etter månen.",
+"difficulty": "Easy",
+"learnMore_no": "Venus er den varmeste planeten i vårt solsystem.",
+"hint_no": "Den er veldig lys.",
+"link_no": "https://no.wikipedia.org/wiki/Venus"
+},
+{
+"text_no": "Hva er et pattedyr?",
+"answers_no": [
+"Et varmblodig dyr som dier ungene sine",
+"Et kaldblodig dyr som legger egg",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Et pattedyr er et varmblodig dyr som dier ungene sine med melk. De har også pels eller hår.",
+"difficulty": "Easy",
+"learnMore_no": "Mennesker, hunder, katter og hvaler er alle eksempler på pattedyr.",
+"hint_no": "Den gir melk til ungene sine.",
+"link_no": "https://no.wikipedia.org/wiki/Pattedyr"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å se?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lysenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lysenergi til å se. Lys reflekteres fra objekter og inn i øynene våre.",
+"difficulty": "Easy",
+"learnMore_no": "Øynene våre inneholder celler som er følsomme for lys.",
+"hint_no": "Det kommer fra solen eller en lyspære.",
+"link_no": "https://no.wikipedia.org/wiki/Lys"
+},
+{
+"text_no": "Hva er en tornado?",
+"answers_no": [
+"En type stein",
+"En roterende søyle av vind",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tornado er en voldsomt roterende søyle av vind som strekker seg fra en tordensky til bakken.",
+"difficulty": "Easy",
+"learnMore_no": "Tornadoer kan forårsake stor skade med sine sterke vinder.",
+"hint_no": "Det er en virvelvind.",
+"link_no": "https://no.wikipedia.org/wiki/Tornado"
+},
+{
+"text_no": "Hvilken planet er kjent for sine ringer?",
+"answers_no": [
+"Jupiter",
+"Saturn",
+"Uranus",
+"Neptun"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Saturn er mest kjent for sine tydelige ringer, som består av milliarder av is- og steinpartikler.",
+"difficulty": "Easy",
+"learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+"hint_no": "Den har et vakkert sett med ringer.",
+"link_no": "https://no.wikipedia.org/wiki/Saturn"
+},
+{
+"text_no": "Hva er en edderkopp?",
+"answers_no": [
+"Et dyr med seks bein",
+"Et dyr med åtte bein",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En edderkopp er et dyr med åtte bein, to kroppsdeler og chelicerae (kjeveklør). De er ikke insekter.",
+"difficulty": "Easy",
+"learnMore_no": "Edderkopper er rovdyr og bruker ofte edderkoppnett for å fange byttedyr.",
+"hint_no": "Den har åtte bein.",
+"link_no": "https://no.wikipedia.org/wiki/Edderkopper"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å høre?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lydenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lydenergi til å høre. Lydbølger får trommehinnene våre til å vibrere.",
+"difficulty": "Easy",
+"learnMore_no": "Lyd kan reise gjennom luft, vann og faste stoffer.",
+"hint_no": "Det har noe med vibrasjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Lyd"
+},
+{
+"text_no": "Hva er en foss?",
+"answers_no": [
+"En type stein",
+"Restene av et gammelt dyr eller plante",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En foss er restene av et gammelt dyr eller plante som er bevart i stein.",
+"difficulty": "Easy",
+"learnMore_no": "Fossiler gir oss viktig informasjon om livet på jorden for millioner av år siden.",
+"hint_no": "Det er fra noe som levde for lenge siden.",
+"link_no": "https://no.wikipedia.org/wiki/Fossil"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Den røde planeten'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Mars er kjent som 'Den røde planeten' på grunn av sitt rødlige utseende, som skyldes jernoksid (rust) på overflaten.",
+"difficulty": "Easy",
+"learnMore_no": "Mars har vært et mål for utforskning av romfart på grunn av potensialet for å finne bevis på tidligere eller nåværende utenomjordisk liv.",
+"hint_no": "Den er rød.",
+"link_no": "https://no.wikipedia.org/wiki/Mars"
+},
+{
+"text_no": "Hva er en amfibie?",
+"answers_no": [
+"Et dyr som kan leve både i vann og på land",
+"Et dyr som bare lever i vann",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "En amfibie er et kaldblodig dyr som kan leve både i vann og på land. Eksempler inkluderer frosker, salamandere og padder.",
+"difficulty": "Easy",
+"learnMore_no": "Amfibier gjennomgår en metamorfose, som for eksempel når en rumpetroll blir en frosk.",
+"hint_no": "Den lever både i vann og på land.",
+"link_no": "https://no.wikipedia.org/wiki/Amfibier"
+},
+{
+"text_no": "Hvilken type energi er lagret i et batteri?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Potensiell energi",
+"Atomenergi"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Kjemisk energi er lagret i et batteri. Denne energien frigjøres som elektrisk energi når batteriet er koblet til en krets.",
+"difficulty": "Easy",
+"learnMore_no": "Batterier brukes i mange enheter, fra telefoner til biler.",
+"hint_no": "Det har noe med kjemiske reaksjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Batteri_(elektrisk"
+},
+{
+"text_no": "Hva er en tsunami?",
+"answers_no": [
+"En type stein",
+"En stor bølge forårsaket av et jordskjelv",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tsunami er en stor bølge forårsaket av et jordskjelv, vulkanutbrudd eller andre undervannsforstyrrelser.",
+"difficulty": "Easy",
+"learnMore_no": "Tsunamier kan forårsake enorm ødeleggelse i kystområder.",
+"hint_no": "Det er en stor vannbølge.",
+"link_no": "https://no.wikipedia.org/wiki/Tsunami"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Morgenstjernen' eller 'Aftenstjernen'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Venus er kjent som 'Morgenstjernen' eller 'Aftenstjernen' fordi den er det klareste objektet på nattehimmelen etter månen.",
+"difficulty": "Easy",
+"learnMore_no": "Venus er den varmeste planeten i vårt solsystem.",
+"hint_no": "Den er veldig lys.",
+"link_no": "https://no.wikipedia.org/wiki/Venus"
+},
+{
+"text_no": "Hva er et pattedyr?",
+"answers_no": [
+"Et varmblodig dyr som dier ungene sine",
+"Et kaldblodig dyr som legger egg",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Et pattedyr er et varmblodig dyr som dier ungene sine med melk. De har også pels eller hår.",
+"difficulty": "Easy",
+"learnMore_no": "Mennesker, hunder, katter og hvaler er alle eksempler på pattedyr.",
+"hint_no": "Den gir melk til ungene sine.",
+"link_no": "https://no.wikipedia.org/wiki/Pattedyr"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å se?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lysenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lysenergi til å se. Lys reflekteres fra objekter og inn i øynene våre.",
+"difficulty": "Easy",
+"learnMore_no": "Øynene våre inneholder celler som er følsomme for lys.",
+"hint_no": "Det kommer fra solen eller en lyspære.",
+"link_no": "https://no.wikipedia.org/wiki/Lys"
+},
+{
+"text_no": "Hva er en tornado?",
+"answers_no": [
+"En type stein",
+"En roterende søyle av vind",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tornado er en voldsomt roterende søyle av vind som strekker seg fra en tordensky til bakken.",
+"difficulty": "Easy",
+"learnMore_no": "Tornadoer kan forårsake stor skade med sine sterke vinder.",
+"hint_no": "Det er en virvelvind.",
+"link_no": "https://no.wikipedia.org/wiki/Tornado"
+},
+{
+"text_no": "Hvilken planet er kjent for sine ringer?",
+"answers_no": [
+"Jupiter",
+"Saturn",
+"Uranus",
+"Neptun"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Saturn er mest kjent for sine tydelige ringer, som består av milliarder av is- og steinpartikler.",
+"difficulty": "Easy",
+"learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+"hint_no": "Den har et vakkert sett med ringer.",
+"link_no": "https://no.wikipedia.org/wiki/Saturn"
+},
+{
+"text_no": "Hva er en edderkopp?",
+"answers_no": [
+"Et dyr med seks bein",
+"Et dyr med åtte bein",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En edderkopp er et dyr med åtte bein, to kroppsdeler og chelicerae (kjeveklør). De er ikke insekter.",
+"difficulty": "Easy",
+"learnMore_no": "Edderkopper er rovdyr og bruker ofte edderkoppnett for å fange byttedyr.",
+"hint_no": "Den har åtte bein.",
+"link_no": "https://no.wikipedia.org/wiki/Edderkopper"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å høre?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lydenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lydenergi til å høre. Lydbølger får trommehinnene våre til å vibrere.",
+"difficulty": "Easy",
+"learnMore_no": "Lyd kan reise gjennom luft, vann og faste stoffer.",
+"hint_no": "Det har noe med vibrasjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Lyd"
+},
+{
+"text_no": "Hva er en foss?",
+"answers_no": [
+"En type stein",
+"Restene av et gammelt dyr eller plante",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En foss er restene av et gammelt dyr eller plante som er bevart i stein.",
+"difficulty": "Easy",
+"learnMore_no": "Fossiler gir oss viktig informasjon om livet på jorden for millioner av år siden.",
+"hint_no": "Det er fra noe som levde for lenge siden.",
+"link_no": "https://no.wikipedia.org/wiki/Fossil"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Den røde planeten'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Mars er kjent som 'Den røde planeten' på grunn av sitt rødlige utseende, som skyldes jernoksid (rust) på overflaten.",
+"difficulty": "Easy",
+"learnMore_no": "Mars har vært et mål for utforskning av romfart på grunn av potensialet for å finne bevis på tidligere eller nåværende utenomjordisk liv.",
+"hint_no": "Den er rød.",
+"link_no": "https://no.wikipedia.org/wiki/Mars"
+},
+{
+"text_no": "Hva er en amfibie?",
+"answers_no": [
+"Et dyr som kan leve både i vann og på land",
+"Et dyr som bare lever i vann",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "En amfibie er et kaldblodig dyr som kan leve både i vann og på land. Eksempler inkluderer frosker, salamandere og padder.",
+"difficulty": "Easy",
+"learnMore_no": "Amfibier gjennomgår en metamorfose, som for eksempel når en rumpetroll blir en frosk.",
+"hint_no": "Den lever både i vann og på land.",
+"link_no": "https://no.wikipedia.org/wiki/Amfibier"
+},
+{
+"text_no": "Hvilken type energi er lagret i et batteri?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Potensiell energi",
+"Atomenergi"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Kjemisk energi er lagret i et batteri. Denne energien frigjøres som elektrisk energi når batteriet er koblet til en krets.",
+"difficulty": "Easy",
+"learnMore_no": "Batterier brukes i mange enheter, fra telefoner til biler.",
+"hint_no": "Det har noe med kjemiske reaksjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Batteri_(elektrisk"
+},
+{
+"text_no": "Hva er en tsunami?",
+"answers_no": [
+"En type stein",
+"En stor bølge forårsaket av et jordskjelv",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tsunami er en stor bølge forårsaket av et jordskjelv, vulkanutbrudd eller andre undervannsforstyrrelser.",
+"difficulty": "Easy",
+"learnMore_no": "Tsunamier kan forårsake enorm ødeleggelse i kystområder.",
+"hint_no": "Det er en stor vannbølge.",
+"link_no": "https://no.wikipedia.org/wiki/Tsunami"
+},
+{
+"text_no": "Hvilken planet er kjent som 'Morgenstjernen' eller 'Aftenstjernen'?",
+"answers_no": [
+"Venus",
+"Mars",
+"Jupiter",
+"Saturn"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Venus er kjent som 'Morgenstjernen' eller 'Aftenstjernen' fordi den er det klareste objektet på nattehimmelen etter månen.",
+"difficulty": "Easy",
+"learnMore_no": "Venus er den varmeste planeten i vårt solsystem.",
+"hint_no": "Den er veldig lys.",
+"link_no": "https://no.wikipedia.org/wiki/Venus"
+},
+{
+"text_no": "Hva er et pattedyr?",
+"answers_no": [
+"Et varmblodig dyr som dier ungene sine",
+"Et kaldblodig dyr som legger egg",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 0,
+"explanation_no": "Et pattedyr er et varmblodig dyr som dier ungene sine med melk. De har også pels eller hår.",
+"difficulty": "Easy",
+"learnMore_no": "Mennesker, hunder, katter og hvaler er alle eksempler på pattedyr.",
+"hint_no": "Den gir melk til ungene sine.",
+"link_no": "https://no.wikipedia.org/wiki/Pattedyr"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å se?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lysenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lysenergi til å se. Lys reflekteres fra objekter og inn i øynene våre.",
+"difficulty": "Easy",
+"learnMore_no": "Øynene våre inneholder celler som er følsomme for lys.",
+"hint_no": "Det kommer fra solen eller en lyspære.",
+"link_no": "https://no.wikipedia.org/wiki/Lys"
+},
+{
+"text_no": "Hva er en tornado?",
+"answers_no": [
+"En type stein",
+"En roterende søyle av vind",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En tornado er en voldsomt roterende søyle av vind som strekker seg fra en tordensky til bakken.",
+"difficulty": "Easy",
+"learnMore_no": "Tornadoer kan forårsake stor skade med sine sterke vinder.",
+"hint_no": "Det er en virvelvind.",
+"link_no": "https://no.wikipedia.org/wiki/Tornado"
+},
+{
+"text_no": "Hvilken planet er kjent for sine ringer?",
+"answers_no": [
+"Jupiter",
+"Saturn",
+"Uranus",
+"Neptun"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "Saturn er mest kjent for sine tydelige ringer, som består av milliarder av is- og steinpartikler.",
+"difficulty": "Easy",
+"learnMore_no": "De andre gasskjempene (Jupiter, Uranus og Neptun) har også ringer, men de er mye svakere og vanskeligere å se.",
+"hint_no": "Den har et vakkert sett med ringer.",
+"link_no": "https://no.wikipedia.org/wiki/Saturn"
+},
+{
+"text_no": "Hva er en edderkopp?",
+"answers_no": [
+"Et dyr med seks bein",
+"Et dyr med åtte bein",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En edderkopp er et dyr med åtte bein, to kroppsdeler og chelicerae (kjeveklør). De er ikke insekter.",
+"difficulty": "Easy",
+"learnMore_no": "Edderkopper er rovdyr og bruker ofte edderkoppnett for å fange byttedyr.",
+"hint_no": "Den har åtte bein.",
+"link_no": "https://no.wikipedia.org/wiki/Edderkopper"
+},
+{
+"text_no": "Hvilken type energi bruker vi til å høre?",
+"answers_no": [
+"Elektrisk energi",
+"Kjemisk energi",
+"Lydenergi",
+"Atomenergi"
+],
+"correctAnswerIndex": 2,
+"explanation_no": "Vi bruker lydenergi til å høre. Lydbølger får trommehinnene våre til å vibrere.",
+"difficulty": "Easy",
+"learnMore_no": "Lyd kan reise gjennom luft, vann og faste stoffer.",
+"hint_no": "Det har noe med vibrasjoner å gjøre.",
+"link_no": "https://no.wikipedia.org/wiki/Lyd"
+},
+{
+"text_no": "Hva er en foss?",
+"answers_no": [
+"En type stein",
+"Restene av et gammelt dyr eller plante",
+"En type fugl",
+"En type fisk"
+],
+"correctAnswerIndex": 1,
+"explanation_no": "En foss er restene av et gammelt dyr eller plante som er bevart i stein.",
+"difficulty": "Easy",
+"learnMore_no": "Fossiler gir oss viktig informasjon om livet på jorden for millioner av år siden.",
+"hint_no": "Det er fra noe som levde for lenge siden.",
+"link_no": "https://no.wikipedia.org/wiki/Fossil"
+
+}
+]
+}
+]   
