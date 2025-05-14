@@ -15,4 +15,12 @@
     "price": 1.99,
     "productID": "com.mycompany.quiz.nature"
   }
+  {
+    "id": "11111111-1111-1111-1111-111111111113",
+    "title": "Allmennkunnskap",
+    "filePath": "quizzes/Allmennkunnskap_nb.json",
+    "info": "Test din allmennkunnskap på tvers av vitenskap, natur, teknologi, musikk og sport.", 
+    "price": 0.99,
+    "productID": "com.mycompany.quiz.trondheim"
+  },
 ]
