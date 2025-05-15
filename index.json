@@ -53,7 +53,7 @@
   },
   {
     "id": "11111111-1111-1111-1111-111111111113",
-    "filePath": "quizzes/ .json",
+    "filePath": "quizzes/Allmennkunnskap_nb.json",
     "price": 0.99,
     "productID": "com.mycompany.quiz.trondheim",
     "title_nb": "Allmennkunnskap",
