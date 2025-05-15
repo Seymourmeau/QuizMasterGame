@@ -30,5 +30,13 @@
     "info": "Stor spørrespakk med 3000 viderekomne flervalgsspørsmål fordelt på 60 kategorier.", 
     "price": 0.99,
     "productID": "com.mycompany.quiz.trondheim"
+   },
+  {
+    "id": "11111111-1111-1111-1111-111111111114",
+    "title": "Historie – Verdenskriger, revolusjoner, imperier",
+    "filePath": "quizzes/History_Wars_Revolutions_Empires_1000.json",
+    "info": "1000 spørsmål om kriger, maktskifter og ideologiske brytninger i verdenshistorien.", 
+    "price": 0.99,
+    "productID": "com.mycompany.quiz.trondheim"
   }
 ]
